@@ -1,0 +1,19 @@
+{
+  "name": "nodecrud",
+  "version": "1.0.0",
+  "description": "Api handler for cabshare website",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Purushotham Parthy",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.26.0",
+    "moment-range": "^4.0.2",
+    "mongodb": "^3.5.8",
+    "mongoose": "^5.9.16"
+  }
+}
